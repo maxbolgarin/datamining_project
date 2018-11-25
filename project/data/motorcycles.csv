@@ -1,7 +1,5 @@
 id,price,model,mileage,motorcycle_class,year,engine_capacity,engine_strokes,damaged,documents,city,date
 1,121 000₽,Kawasaki Ninja 250R,1 км,Спортивный,2018,250 куб. см.,4х тактный,Исправен,Есть ПТС,Москва,18 ноября
-id,price,model,mileage,motorcycle_class,year,engine_capacity,engine_strokes,damaged,documents,city,date
-1,121 000₽,Kawasaki Ninja 250R,1 км,Спортивный,2018,250 куб. см.,4х тактный,Исправен,Есть ПТС,Москва,18 ноября
 2,140 000₽,Honda Fouttrax Rancher,1 км,Туристический,2018,250 куб. см.,4х тактный,Исправен,Есть ПТС,Москва,18 ноября
 3,420 000₽,Ducati Monster 796,21 000 км,Классика,2013,800 куб. см.,4х тактный,Исправен,Есть ПТС,Москва,18 ноября
 4,Цена не указана,Honda CB 750,None,Спортивный,None,750 куб. см.,4х тактный,Исправен,Есть ПТС,Москва,18 ноября
